@@ -2,8 +2,9 @@
 
 Dictionary and list comprehensions are just another concise way to define dictionaries and lists. 
 
-List comprehension example:
+#### List comprehension example:
 ```
+# syntax: [<expr> for <elem> in <lst> if <cond>]
 x = [i for i in range(1,5)]
 print(x)
 
@@ -23,7 +24,9 @@ Output:
 [1, 2, 3, 4]
 ```
 
-Dictionary comprehension example:
+List comprehension is used in place of functions like `map()` and `filter()`.
+
+#### Dictionary comprehension example:
 ```
 x = {f"key{i}": i for i in range(5)}
 print(x)
