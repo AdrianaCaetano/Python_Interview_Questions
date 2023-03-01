@@ -5,6 +5,7 @@ A compilation of interview questions and answers about Python programming
 
 #### References:
 
+- [DataQuest](https://www.dataquest.io/blog/)
 - [InterviewBit.com](https://www.interviewbit.com/python-interview-questions/)
 - [RealPython](https://realpython.com)
 - [Sakshi Sharma](https://www.linkedin.com/in/sakshi-sharma-a80985229/) 
