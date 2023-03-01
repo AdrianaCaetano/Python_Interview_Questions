@@ -6,7 +6,7 @@ In Python, the syntax for creating a lambda function is as follows:
 `lambda arguments : expression` 
 where arguments are the inputs to the function, and expression is the result that is returned.
  
-Lambda functions are useful for creating simple, throw-away functions that are used only once. They can also be used for tasks such as filtering data in a list, mapping data, and reducing data.
+Lambda functions are generally inline, anonymous functions represented by a single expression. They are used for creating function objects during runtime. They can accept any number of parameters. They are usually used where functions are required only for a short period.
  
 For example, here is a lambda function that takes two arguments and returns their sum:
 ```
