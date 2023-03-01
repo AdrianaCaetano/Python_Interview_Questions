@@ -53,7 +53,3 @@ MyClass.say_hello() # Output: "Hello!"
 The main difference between instance, static, and class methods in Python is that instance methods are associated with an instance of a class, static methods are not associated with an instance or class, and class methods are associated with the class itself.
 
 
-
-
-#### Reference: 
-*[Sashi Sharma](https://www.linkedin.com/in/sakshi-sharma-a80985229/) post on LinkedIn*
